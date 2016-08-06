@@ -1,0 +1,23 @@
+{
+  "name": "mm-platform-stub",
+  "version": "0.0.1",
+  "description": "Stub class to test MicroMinion platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicroMinion/mm-platform-stub.git"
+  },
+  "keywords": [
+    "microminion",
+    "stub"
+  ],
+  "author": "Thomas Delaet <thomas@delaet.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MicroMinion/mm-platform-stub/issues"
+  },
+  "homepage": "https://github.com/MicroMinion/mm-platform-stub#readme"
+}
