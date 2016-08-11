@@ -1,10 +1,11 @@
 {
   "name": "mm-platform-stub",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stub class to test MicroMinion platform",
   "main": "index.js",
   "scripts": {
-    "test": "echo"
+    "test": "echo",
+    "2npm": "publish"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/MicroMinion/mm-platform-stub/issues"
   },
-  "homepage": "https://github.com/MicroMinion/mm-platform-stub#readme"
+  "homepage": "https://github.com/MicroMinion/mm-platform-stub#readme",
+  "devDependencies": {
+    "publish": "^0.6.0"
+  }
 }
