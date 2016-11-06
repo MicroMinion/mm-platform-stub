@@ -1,6 +1,6 @@
 {
   "name": "mm-platform-stub",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Stub class to test MicroMinion platform",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,8 @@
   "homepage": "https://github.com/MicroMinion/mm-platform-stub#readme",
   "devDependencies": {
     "publish": "^0.6.0"
+  },
+  "dependencies": {
+    "lodash": "^4.16.6"
   }
 }
